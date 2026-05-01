@@ -427,6 +427,7 @@ FLOWS = {
         "lyric",
         "madvr",
         "mailgun",
+        "marantz_infrared",
         "mastodon",
         "matter",
         "mcp",
